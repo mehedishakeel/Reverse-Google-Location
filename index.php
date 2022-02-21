@@ -71,7 +71,7 @@ $("#submit").on('click',(e)=>{
     function fetchLocation() {
         var lat = $("#lat").val();
         var long = $("#long").val();
-        var key = 'AIzaSyDWBfXQufmcsVcla_LSmPJfHtXnfJzBBWY';
+        var key = 'ADD YOUR GOOGLE GEOCODING API KEY';
         var url = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${lat},${long}&key=${key}`;
 
         $.get(url, (data, status) => {
