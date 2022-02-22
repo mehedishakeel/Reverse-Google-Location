@@ -1,7 +1,5 @@
 # Reverse-Google-Location
- Getting Reverse Google Location (Addresses) By Latitude and Longitude using Google GeocodingAPI. Convert addresses or Place IDs to latitude/longitude coordinates and vice-versa.
-
-# Project Description: 
+Getting Reverse Google Location (Addresses) By Latitude and Longitude using Google GeocodingAPI. Convert addresses or Place IDs to latitude/longitude coordinates and vice-versa.
 This project is created using php & JavaScript to call the API through web browser. We have to add own Google Geocoding API key in PHP file. As an input we have to enter the Latitude and Longitude and in return we will get the Human Readable Address.
  
 # What is Google Geocoding API?
